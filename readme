@@ -7,3 +7,7 @@ the next letter should be placed in cell y.
 
 fibonocci.c
 Write a recursive function int Fibonocci(void) that does not have any parameter but use a global variable n to compute.
+
+max.c
+Take any number of input values by command line and output the maximum. 
+For example, run "max 1 2 3 4" will output 4 and run "max 3 2 1 4 5 8 9" will output 9.
