@@ -1,0 +1,6 @@
+random_walker.c
+Random walk across a n x n array, where n is defined by #define.
+Assume the numbers 0, 1, 2, and 3, randomly generated corresponds to the direction up, right, down, and left, respectively.
+When the cell x is selected by the new direction and it is already occupied, 
+it first tries to jump over cell x to find if the neighboring cell (say cell y ) of x along the selected direction is not occupied, 
+the next letter should be placed in cell y.
