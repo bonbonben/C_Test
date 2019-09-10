@@ -32,3 +32,6 @@ Reverse the input string. If the input is "end", the program will end.
 
 str reverse2.c
 Reverse the input string. If the input is "end", the program will end.
+
+random tour.c
+Walk randomly in a 10*10 two-dimensional array.
