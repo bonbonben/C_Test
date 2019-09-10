@@ -26,3 +26,6 @@ Enter a number to get factorial.
 
 quicksort.c
 Quicksort algorithm
+
+str reverse.c
+Reverse the input string.
