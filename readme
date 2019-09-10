@@ -23,3 +23,6 @@ Dijkstra algorithm
 
 n!.c
 Enter a number to get factorial.
+
+quicksort.c
+Quicksort algorithm
